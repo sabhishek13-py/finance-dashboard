@@ -28,7 +28,7 @@ npm install
 npm run dev
 ```
 
-Open [[http://localhost:5173](http://localhost:5173)](https://finance-dashboard2-theta.vercel.app/)
+Open (https://finance-dashboard2-theta.vercel.app/)
 
 ## Role-Based UI
 
